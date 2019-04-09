@@ -1,5 +1,11 @@
 # 基于LiveData的跨组件通信框架
 
+[ ![Download](https://api.bintray.com/packages/xqy/maven/event/images/download.svg?version=1.0.0) ](https://bintray.com/xqy/maven/event/1.0.0/link)
+
+## 依赖
+
+`implementation 'com.xqy.androidx.event:event:1.0.0'`
+
 ## 1.使用
 
 ```
