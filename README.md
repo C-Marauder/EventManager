@@ -1,6 +1,6 @@
 # 基于LiveData的跨组件通信框架
 
-[ ![Download](https://api.bintray.com/packages/xqy/maven/event/images/download.svg?version=1.0.0) ](https://bintray.com/xqy/maven/event/1.0.0/link)
+[ ![Download](https://api.bintray.com/packages/xqy/maven/event/images/download.svg?version=1.0.1) ](https://bintray.com/xqy/maven/event/1.0.1/link)
 
 ## 依赖
 
