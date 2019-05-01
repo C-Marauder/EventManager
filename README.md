@@ -4,7 +4,7 @@
 
 ## 依赖
 
-`implementation 'com.xqy.androidx.event:event:1.0.0'`
+`implementation 'com.xqy.androidx.event:event:1.0.1'`
 
 ## 1.使用
 
